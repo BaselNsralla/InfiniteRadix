@@ -3,7 +3,7 @@ InfiniteRadix can show you the base 10 value of a number written in whatever bas
 
 
 ## Method: ##
-To start it with a chosen number and base run the script with two arguments: the first is the base series after 10, the second is the number you want to convert
+To start it with your chosen number and base; run the script with two arguments: the first is the base sequence starting from 11 (which means that it starts with the letter a), the second is the number you want to convert.
 
 
 ## Example: ##
