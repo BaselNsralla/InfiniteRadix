@@ -1,4 +1,4 @@
-# InfiniteRadix
+# Infinite-Radix
 InfiniteRadix can show you the base 10 value of a number written in whatever base, up to base 36.
 This code does not use built in base converting functions.
 
